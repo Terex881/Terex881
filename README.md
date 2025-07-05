@@ -55,10 +55,10 @@
 <h3 align="left">Contact Me:</h3>
 
 
-<div align="left">
-  <img href="https://www.linkedin.com/in/salahdemnati/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" style="height:30px;" alt="linkedin logo" />
+<!-- <div align="left"> -->
+<!--   <img href="https://www.linkedin.com/in/salahdemnati/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" style="height:30px;" alt="linkedin logo" /> -->
 <!--   <img href="https://www.linkedin.com/in/salahdemnati/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" style="height:30px;" alt="twitter logo" /> -->
 <!--   <img href="https://www.linkedin.com/in/salahdemnati/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" style="height:30px;" alt="discord logo" /> -->
-</div>
+<!-- </div> -->
 
 ###
